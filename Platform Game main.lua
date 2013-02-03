@@ -15,7 +15,7 @@ local texting
 local boxxy
 local countFrame = 0
 local countSec = 0
-local totalScore
+local totalScore = 0
 
 --Vedaad's variables
 local platforms = {}
