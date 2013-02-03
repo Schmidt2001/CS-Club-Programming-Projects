@@ -39,8 +39,6 @@ local modee
 
 --Tierno's Variables
 local screenObjects = display.newGroup()
-
---Misha's Variables
 local galaxies = {}
 local r
 local everything = display.newGroup()
