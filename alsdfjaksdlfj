@@ -1,0 +1,1 @@
+display.newText("HELLO", 5,5)
